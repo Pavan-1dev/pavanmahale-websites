@@ -1,0 +1,24 @@
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #f1f1f1;
+}
+body{
+    margin: 0%;
+    padding-top: 80px;
+    padding-left:96px;
+    padding-right: 24px;
+    padding-bottom: 3000px;
+    background-color:rgb(15,15,15);
+    
+}
+.header{
+   background-color: rgba(15,15,15,0.85) ;
+   backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: none;       /* removes any default border */
+  box-shadow: none;          /* removes shadow line if present */
+}     
+
+
